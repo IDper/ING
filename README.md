@@ -5,4 +5,4 @@ http://ideveloper.by/ing/index.html
 
 ![Alt text](http://ideveloper.by/preview/ing.png)
 
-(GitHub Pages)https://boriskrasko.github.io/ing
+[GitHub Pages](https://boriskrasko.github.io/ing)

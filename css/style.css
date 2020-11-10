@@ -210,10 +210,12 @@ table.logo {
 	margin-left: 5%;
 }
 
-.links:hover {
-	box-shadow: 0 0 100px 20px gray;
-	background: #ccc;
-	transform: scale(1.02);
+.links h3 {
+	color: #222;
+}
+
+.links h3:hover {
+	color: #000;
 }
 
 .bottom-nav {
